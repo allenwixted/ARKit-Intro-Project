@@ -23,7 +23,7 @@ class Scene: SKScene {
     let startTime = Date()
     
     override func didMove(to view: SKView) {
-        // Setup your scene here   //
+        // Setup your scene here  
         
         remainingLabel.fontSize = 36
         remainingLabel.color = .white
